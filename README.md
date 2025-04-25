@@ -1,2 +1,2 @@
-# proiect_harta_isnovat1
-bazinul hidrografic isnovat
+# proiect_harta_hidrografie
+retea hidrografica
